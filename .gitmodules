@@ -1,0 +1,6 @@
+[submodule "ford_msgs"]
+	path = ford_msgs
+	url = https://bitbucket.org/acl-swarm/ford_msgs.git
+[submodule "cadrl_ros"]
+	path = cadrl_ros
+	url = https://github.com/zlewe/cadrl_ros.git
